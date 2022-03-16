@@ -28,10 +28,9 @@ export default function Hero() {
                     spacing={{ base: 8, md: 14 }}
                     py={{ base: 20, md: 36 }}>
                     <Heading
-                        fontWeight={600}
+                        fontWeight={700}
                         fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
                         fontFamily={"Poppins"}
-                        fontWeight={"700"}
                         lineHeight={'110%'}>
                         <Text color={'white'}>
                             OAKLAND OPPORTUNITIES
